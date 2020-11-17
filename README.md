@@ -4,7 +4,7 @@ Using linear regression model to predict price of the house
 # Modules Used 
 * Turi Create 
 * SFrame 
-
+* matplotlib
 
 # Data Used 
 * House data in SFrame 
